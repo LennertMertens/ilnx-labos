@@ -4,11 +4,8 @@ In deze repository vind je de labo-oefeningen voor Besturingssystemen/Linux van 
 
 ## Gegevens student
 
-- Naam: 
-- Klasgroep: 
-- Naam van je lector: Nathalie Declercq / Andy Van Maele / Bert Van Vreckem (schrap wat niet past)
-- Github gebruikersnaam: [GEBRUIKER](https://github.com/GEBRUIKER)
-- URL naar je Github-repository: <https://github.com/HoGentTIN/ilnx-GEBRUIKER>
+- Naam: Lennert Mertens
+- Github gebruikersnaam: [LennertMertens](https://github.com/LennertMertens)
 
 ## Verslagen bijhouden
 
@@ -38,6 +35,7 @@ Uitgebreide voorbeelden en motivatie van cheat sheets kan je vinden in deze Gith
 * [Een webserver opzetten](labo-4-webserver.md)
 * [Bestandspermissies](labo-5-bestandspermissies.md)
 * [Scripts](labo-6-scripts.md)
+* [Webserver](labo-7-webserver.md)
 
 ## Vragen/opmerkingen
 

@@ -39,9 +39,7 @@ Beschrijf hier de exacte procedure hoe je dit uitgevoerd hebt. Zorg er voor dat 
 
 ### Procedure
 
-Beschrijf hier de exacte procedure hoe je dit uitgevoerd hebt. Zorg er voor dat je aan de hand van je beschrijving deze taken later heel vlot kan herhalen als dat nodig is.
-
-1. ...
+Installatie van een VM is voor de hand liggend, hiervoor is ook voldoende informatie beschikbaar op het internet.
 
 ## Nieuwe software installeren
 
@@ -57,7 +55,5 @@ Installeer optioneel de “VirtualBox Guest Additions” (zie procedure in de st
 
 ### Procedure
 
-Beschrijf hier de exacte procedure hoe je dit uitgevoerd hebt. Zorg er voor dat je aan de hand van je beschrijving deze taken later heel vlot kan herhalen als dat nodig is.
-
-1. ...
+Om packaches te installeren gebruiken we het commando: `sudo dnf install git -y`
 
